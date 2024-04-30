@@ -11,7 +11,7 @@ Page made with CSS, HTML, JavaScript amd JQuery, with nice audiovisual effects.
 
 ## 🔗Preview
 
-[![Video Demo]](https://github.com/Thaina-Oliveira/Simon-Game/blob/main/Simon%20video.mp4)
+https://github.com/Thaina-Oliveira/Simon-Game/assets/138075601/66e345da-a9cb-416e-baea-b00c41b73772
 
 ## 💻Project
 
