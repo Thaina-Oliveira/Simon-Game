@@ -38,4 +38,4 @@ This project was developed with the following technologies:
 
 ## 📝License
 
-!https://img.shields.io/badge/license-MIT-blue.svg
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
