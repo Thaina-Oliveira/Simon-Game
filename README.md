@@ -10,7 +10,7 @@ Page made with CSS, HTML, JavaScript amd JQuery, with nice audiovisual effects.
 - [📝 License](https://www.notion.so/Media-query-551caf0030d24b9a9e30a3ef6c1d750b?pvs=21)
 
 ## 🔗Preview
-
+Watch the video down bellow to see how the game works.
 https://github.com/Thaina-Oliveira/Simon-Game/assets/138075601/66e345da-a9cb-416e-baea-b00c41b73772
 
 ## 💻Project
