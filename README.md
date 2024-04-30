@@ -16,7 +16,7 @@ https://github.com/Thaina-Oliveira/Simon-Game/assets/138075601/66e345da-a9cb-416
 ## 💻Project
 
 Project developed during the course "The Complete JavaScript Course 2024: From Zero to Expert!". <br />
-Access this project <a href="https://thaina-oliveira.github.io/Travel/">HERE</a> or click on the photo above ⬆️
+Access this project <a href="https://thaina-oliveira.github.io/Simon-Game/">HERE</a>
 
 ## 📃Rules
 
